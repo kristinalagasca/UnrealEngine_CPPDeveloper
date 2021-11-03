@@ -1,0 +1,5 @@
+# big files
+.vscode/
+
+# other files
+*.exe
